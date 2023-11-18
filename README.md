@@ -6,3 +6,5 @@ touched on
 - SSH & VM instances
 - JSON private keys
 - 
+
+need to create dashboard and explore more with GCP queries
